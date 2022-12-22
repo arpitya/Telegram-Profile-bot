@@ -30,9 +30,9 @@ Steps to get api token
 
 ## Screenshots
 
-![App Screenshot](https://github.com/arpitya/Telegram-Profile-bot/blob/main/Images/1.png?raw=true468x300)
+![App Screenshot](https://drive.google.com/file/d/1lpAb3Hy1gHJREymT01YjNZXpdIppuMN7/view?usp=share_link)
 
-![App Screenshot](https://github.com/arpitya/Telegram-Profile-bot/blob/main/Images/2.png?raw=true468x300)
+![App Screenshot](https://drive.google.com/file/d/1GEpQLE65X5jEpov1XqAbJl_t0g7wTmjk/view?usp=sharing)
 
 
 
