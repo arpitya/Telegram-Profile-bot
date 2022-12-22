@@ -32,6 +32,9 @@ Steps to get api token
 
 ![image](https://user-images.githubusercontent.com/72349640/209065847-12050ab7-3585-4452-a336-f42cbd66a983.png)
 
+![image](https://user-images.githubusercontent.com/72349640/209066192-be852e05-3547-401e-b036-f240dfa6933a.png)
+
+
 
 
 
