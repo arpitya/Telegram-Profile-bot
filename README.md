@@ -32,7 +32,7 @@ Steps to get api token
 
 ![App Screenshot](https://drive.google.com/file/d/1lpAb3Hy1gHJREymT01YjNZXpdIppuMN7/view?usp=share_link)
 
-![App Screenshot](https://drive.google.com/file/d/1GEpQLE65X5jEpov1XqAbJl_t0g7wTmjk/view?usp=sharing)
+![App Screenshot](https://drive.google.com/file/d/1GEpQLE65X5jEpov1XqAbJl_t0g7wTmjk/view?usp=share_link)
 
 
 
