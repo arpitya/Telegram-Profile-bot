@@ -30,10 +30,7 @@ Steps to get api token
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1lpAb3Hy1gHJREymT01YjNZXpdIppuMN7/view?usp=share_link)
-
-![App Screenshot](https://drive.google.com/file/d/1GEpQLE65X5jEpov1XqAbJl_t0g7wTmjk/view?usp=share_link)
-
+![image](https://user-images.githubusercontent.com/72349640/209065847-12050ab7-3585-4452-a336-f42cbd66a983.png)
 
 
 
